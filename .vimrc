@@ -9,8 +9,6 @@ set title
 
 " 現在の行を強調表示
 set cursorline
-" 現在の行を強調表示（縦）
-set cursorcolumn
 
 " 対応する括弧を強調表示
 set showmatch
